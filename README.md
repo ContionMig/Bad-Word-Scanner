@@ -12,7 +12,7 @@ Tries to detect bad words by scanning for them in different ways. Replacing symb
 - Combines all the filters to detect words such as ( @ ss S h 1 t F u c k )
 
 # Screenshots
-![ScreenShot](http://prntscr.com/nzfu0h)
+![ScreenShot](https://github.com/ContionMig/Bad-Word-Scanner/blob/master/Screenshot_2.png)
 
 # System Portability 
 - Tested on x64
